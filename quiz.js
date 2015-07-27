@@ -58,5 +58,5 @@ if(correct >= 3)  {
 } else  {
   alert('Bronze Crown!');
 }
-document.write('<p>You got ' + correct + ' correct.</p>');
+document.write('<p><strong>You got ' + correct + ' correct.</strong></p>');
 document.write('<p>You got ' + wrong +' wrong.</p>');
